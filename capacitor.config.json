@@ -1,0 +1,6 @@
+{
+  "appId": "com.flip7.planilla",
+  "appName": "Flip 7 Planilla",
+  "webDir": ".",
+  "bundledWebRuntime": false
+}

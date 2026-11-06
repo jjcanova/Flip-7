@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: flip7-planilla
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
+    headers:
+      - path: /sw.js
+        name: Cache-Control
+        value: no-cache

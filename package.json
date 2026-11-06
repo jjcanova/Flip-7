@@ -1,0 +1,8 @@
+{
+  "name": "flip7-planilla",
+  "version": "1.0.0",
+  "description": "Planilla interactiva y gr\u00e1ficos de evoluci\u00f3n para Flip 7",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
